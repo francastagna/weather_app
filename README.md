@@ -1,2 +1,6 @@
-# weather_app
-A simple weather app made with Django
+# Weather App :cloud_with_lightning:
+
+## An easy to use and good looking Weather App, made with Django . 
+
+### How is the weather like ?
+
